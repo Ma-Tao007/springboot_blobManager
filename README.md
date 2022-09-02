@@ -2,14 +2,12 @@
 
 系统介绍：本系统是一个基于springBoot前后端不分离个人博客的管理系统，用户可以注册账号并登陆系统查看发布的文章并进行阅读评论等
 
+项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
 
-CSDN博客地址：https://blog.csdn.net/m0_47220500/article/details/125158453
-
-B站运行视频： https://www.bilibili.com/video/BV1oY411T7fy
-
-项目下载地址：http://shiyuncode.com/details?id=16
+![公众号二维码](./运行截图/wechat.png)
 
 
+CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/115462108
 
 本系统主要有三种用户：
 1、游客：没有登陆的用户，可以查询文章，但是无法进行评论，系统中的所有文章可以通过内容搜索，可以通过分类搜索也可以通过标签就行搜索
