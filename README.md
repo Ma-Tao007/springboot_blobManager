@@ -2,10 +2,7 @@
 
 系统介绍：本系统是一个基于springBoot前后端不分离个人博客的管理系统，用户可以注册账号并登陆系统查看发布的文章并进行阅读评论等
 
-项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
-
-![公众号二维码](./运行截图/wechat.png)
-
+源码下载：http://www.manoncode.cn/details?id=16
 
 CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/115462108
 
